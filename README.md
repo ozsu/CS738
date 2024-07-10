@@ -12,7 +12,7 @@ Introduction to data engineering issues in data science. Data management technol
 Open to Master of Data Science and Artificial Intelligence students and others without an undergraduate course on database systems (instructor approval required).
 
 ## Course Logistics
-TBD
+TBD  
 
 ## Syllabus & Schedule (Subject to adjustments)
 
