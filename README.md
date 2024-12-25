@@ -18,32 +18,32 @@ TBD
 
 | Week     | Lecture       | Topic  |  Slides  |
 | :-----: | :-----------: | :---- |:------------- |
-| 1 | 1 | Course introduction and scoping |  | 
-|   | 2 | Relational model of data |   |
-| 2 | 1 | SQL |   |
-|   | 2 | Advanced SQL, Relational algebra & relational calculus |  |
-| 3 | 1 | Data modeling |  |
-|   | 2 | Relational DBMS internals (query processing) |   |
-| 4 | 1 | Relational DBMS internals (transaction processing) |   |
-|   | 2 | Big data and NoSQL |   |
-| 5 | 1 | Big data and text processing |  |
-|   | 2 | Big data and data streams |  |
-| 6 | 1 | Big data and graph processing |   |
-|   | 2 | Big data and scaling: Classical relational distributed DBMS |  |
-| 7 |   | <span style="color:red">Reading week - no classes</span> |  |
-| 8 | 1 | Big data processing platforms: MapReduce |  |
-|   | 2 | Big data processing platforms: MapReduce/Spark |  |
-| 9 | 1 | Cloud computing & cloud-native data management |  |
-|   | 2 | Privacy in big data |   |
-| 10| 1 | Data integration: Data warehouses |  |
-|   | 2 | Data integration: Data lakes |   |
-| 11| 1 | OLAP & OLTP: HTAP systems |   |
+| 1 (Jan 6) | 1 | Course introduction; Introduction to Database Systems |  | 
+|   | 2 | Relational model of data, relational calculus & algebra |   |
+| 2 (Jan 13)| 1 | Relational algebra, SQL |   |
+|   | 2 |  SQL |  |
+| 3 (Jan 20)| 1 | Data modeling |  |
+|   | 2 | Catch-up day or in-class discussion |   |
+| 4 (Jan 27)| 1 | Big data and NoSQL  |   |
+|   | 2 | |  Big data and text processing |
+| 5 (Feb 3) | 1 |  Big data and data streams |  |
+|   | 2 |  |  Big data and graph processing |
+| 6 (Feb 10)| 1 |  Big data and scaling: Distributed/parallel DBMS |   |
+|   | 2 | Big data processing platforms: MapReduce |  |
+| 7 (Feb 17)|   | <span style="color:red">Reading week - no classes</span> |  |
+| 8 (Feb 24)| 1 | <span style="color:red">Midterm exam</span> |  |
+|   | 2 |  Big data processing platforms: MapReduce/Spark |   |
+| 9 (Mar 3)| 1 | Cloud computing & cloud-native data management |  |
+|   | 2 | Data integration: Data warehouses |   |
+| 10 (Mar 10)| 1 | Data integration: Data lakes |  |
+|   | 2 | OLAP & OLTP: HTAP systems |   |
+| 11 (Mar 17)| 1 | Security & privacy in big data |   |
 |   | 2 | Data mining |   |
-| 12| 1 | Data preparation: the pipeline |  |
+| 12 (Mar 24)| 1 | Data preparation: the pipeline |  |
 |   | 2 | Data quality & data cleaning |   |
-| 13| 1 | Data quality & data cleaning |   |
+| 13 (Mar 31)| 1 | Data quality & data cleaning |   |
 |   | 2 | Data provenance |   |
-
+|
 
 ## Marking Scheme (Tentative)
 + **Assignments:** 30% 
