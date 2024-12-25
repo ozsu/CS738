@@ -2,9 +2,9 @@
 # Data Engineering for Data Science
 
 + **Instructor:** [M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)
-+ **Lecture Room:** TBD
-+ **Lecture Time:** TBD
-+ **Office HourL** TBD
++ **Lecture Room:** DC2585
++ **Lecture Time:** MW 3:00-4:30PM
++ **Office Hour** M 1:30-2:30PM
 
 ## Calendar Description
 Introduction to data engineering issues in data science. Data management technology objectives. Relational database technology, relational algebra, SQL, transactions, data modelling methodology, entity-relationship models. NoSQL databases including key-value stores, document databases, wide-column stores, graph databases. Overview of big data processing platforms. Data integration including data warehousing, data lakes, ETL and ELT approaches. Data preparation for analysis, data quality, data cleaning. Introduction to several current topics in database research, such as data mining, managing data streams, distributed/parallel databases, HTAP architectures. 
