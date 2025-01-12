@@ -25,17 +25,17 @@ TBD
 | 3 (Jan 20)| 1 | Data modeling |  |
 |   | 2 | Catch-up day or in-class discussion |   |
 | 4 (Jan 27)| 1 | Big data and NoSQL  |   |
-|   | 2 | |  Big data and text processing |
+|   | 2 | Big data and text processing |  |
 | 5 (Feb 3) | 1 |  Big data and data streams |  |
-|   | 2 |  |  Big data and graph processing |
+|   | 2 | Big data and graph processing  |  |
 | 6 (Feb 10)| 1 |  Big data and scaling: Distributed/parallel DBMS |   |
 |   | 2 | Big data processing platforms: MapReduce |  |
 | 7 (Feb 17)|   | <span style="color:red">Reading week - no classes</span> |  |
 | 8 (Feb 24)| 1 | <span style="color:red">Midterm exam</span> |  |
 |   | 2 |  Big data processing platforms: MapReduce/Spark |   |
-| 9 (Mar 3)| 1 | Cloud computing & cloud-native data management |  |
-|   | 2 | Data integration: Data warehouses |   |
-| 10 (Mar 10)| 1 | Data integration: Data lakes |  |
+| 9 (Mar 3)| 1 | Data integration: Data warehouses  |  |
+|   | 2 | Data integration: Data lakes |   |
+| 10 (Mar 10)| 1 | Cloud computing & cloud-native data management |  |
 |   | 2 | OLAP & OLTP: HTAP systems |   |
 | 11 (Mar 17)| 1 | Security & privacy in big data |   |
 |   | 2 | Data mining |   |
