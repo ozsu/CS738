@@ -16,29 +16,29 @@ TBD
 
 ## Syllabus & Schedule (Subject to adjustments)
 
-| Week     | Lecture       | Topic  |  Slides  |
+| Week     | Lecture       | Topic  |  Speaker  |
 | :-----: | :-----------: | :---- |:------------- |
-| 1 (Jan 6) | 1 | Course introduction; Introduction to Database Systems |  | 
-|   | 2 | Relational model of data, relational calculus & algebra |   |
-| 2 (Jan 13)| 1 | Relational algebra, SQL |   |
-|   | 2 |  SQL |  |
-| 3 (Jan 20)| 1 | Data modeling |  |
+| 1 (Jan 6) | 1 | Course introduction; Introduction to Database Systems | Tamer Özsu | 
+|   | 2 | Relational model of data, relational calculus & algebra | Tamer Özsu  |
+| 2 (Jan 13)| 1 | Relational algebra, SQL | Tamer Özsu  |
+|   | 2 |  SQL | M.T. Özsu |
+| 3 (Jan 20)| 1 | Data modeling | Tamer Özsu |
 |   | 2 | Catch-up day or in-class discussion |   |
-| 4 (Jan 27)| 1 | Big data and NoSQL  |   |
-|   | 2 | Big data and text processing |  |
+| 4 (Jan 27)| 1 | Big data and NoSQL  | Tamer Özsu  |
+|   | 2 | Big data and text processing | Tamer Özsu |
 | 5 (Feb 3) | 1 |  Big data and data streams |  |
 |   | 2 | Big data and graph processing  |  |
-| 6 (Feb 10)| 1 |  Big data and scaling: Distributed/parallel DBMS |   |
-|   | 2 | Big data processing platforms: MapReduce |  |
+| 6 (Feb 10)| 1 |  Big data and scaling: Distributed/parallel DBMS |  Tamer Özsu |
+|   | 2 | Big data processing platforms: MapReduce | Tamer Özsu |
 | 7 (Feb 17)|   | <span style="color:red">Reading week - no classes</span> |  |
 | 8 (Feb 24)| 1 | <span style="color:red">Midterm exam</span> |  |
-|   | 2 |  Big data processing platforms: MapReduce/Spark |   |
-| 9 (Mar 3)| 1 | Data integration: Data warehouses  |  |
-|   | 2 | Data integration: Data lakes |   |
+|   | 2 |  Big data processing platforms: MapReduce/Spark |  Tamer Özsu |
+| 9 (Mar 3)| 1 | Data integration: Data warehouses  | Tamer Özsu |
+|   | 2 | Data integration: Data lakes | Renée Miller  |
 | 10 (Mar 10)| 1 | Cloud computing & cloud-native data management |  |
 |   | 2 | OLAP & OLTP: HTAP systems |   |
-| 11 (Mar 17)| 1 | Security & privacy in big data |   |
-|   | 2 | Data mining |   |
+| 11 (Mar 17)| 1 |  |   |
+|   | 2 |  |   |
 | 12 (Mar 24)| 1 | Data preparation: the pipeline |  |
 |   | 2 | Data quality & data cleaning |   |
 | 13 (Mar 31)| 1 | Data quality & data cleaning |   |
