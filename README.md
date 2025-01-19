@@ -42,7 +42,7 @@ TBD
 | 12 (Mar 24)| 1 | Data quality & data cleaning |  |
 |   | 2 | Data provenance |   |
 | 13 (Mar 31)| 1 | Vector databases |   |
-|   | 2 | Data management issues in LLMs |   |
+|   | 2 | Data management issues in LLMs | [Theo Rekatsinas](https://thodrek.github.io/)  |
 |
 
 ## Marking Scheme (Tentative)
