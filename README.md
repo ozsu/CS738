@@ -37,12 +37,12 @@ TBD
 |   | 2 | Data integration: Data lakes | Renée Miller  |
 | 10 (Mar 10)| 1 | Cloud computing & cloud-native data management |  |
 |   | 2 | OLAP & OLTP: HTAP systems |   |
-| 11 (Mar 17)| 1 |  |   |
-|   | 2 |  |   |
-| 12 (Mar 24)| 1 | Data preparation: the pipeline |  |
+| 11 (Mar 17)| 1 | Data preparation: the pipeline |   |
 |   | 2 | Data quality & data cleaning |   |
-| 13 (Mar 31)| 1 | Data quality & data cleaning |   |
+| 12 (Mar 24)| 1 | Data quality & data cleaning |  |
 |   | 2 | Data provenance |   |
+| 13 (Mar 31)| 1 | Vector databases |   |
+|   | 2 | Data management issues in LLMs |   |
 |
 
 ## Marking Scheme (Tentative)
