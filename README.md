@@ -34,15 +34,15 @@ TBD
 | 8 (Feb 24)| 1 | <span style="color:red">Midterm exam</span> |  |
 |   | 2 |  Big data processing platforms: MapReduce/Spark |  Tamer Özsu |
 | 9 (Mar 3)| 1 | Data integration: Data warehouses  | Tamer Özsu |
-|   | 2 | Data integration: Data lakes | Renée Miller  |
+|   | 2 | Data integration: Data lakes | [Renée Miller, Waterloo](https://rjmillerlab.github.io/)  |
 | 10 (Mar 10)| 1 | Cloud computing & cloud-native data management |  |
 |   | 2 | OLAP & OLTP: HTAP systems |   |
 | 11 (Mar 17)| 1 | Data preparation: the pipeline |   |
 |   | 2 | Data quality & data cleaning |   |
 | 12 (Mar 24)| 1 | Data quality & data cleaning |  |
 |   | 2 | Data provenance |   |
-| 13 (Mar 31)| 1 | Vector databases |   |
-|   | 2 | Data management issues in LLMs | [Theo Rekatsinas](https://thodrek.github.io/)  |
+| 13 (Mar 31)| 1 | Vector databases | [Jianguo Wang, Purdue](https://www.cs.purdue.edu/homes/csjgwang/)  |
+|   | 2 | Data management issues in LLMs | [Theo Rekatsinas, Apple](https://thodrek.github.io/)  |
 |
 
 ## Marking Scheme (Tentative)
