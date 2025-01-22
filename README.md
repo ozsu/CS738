@@ -24,15 +24,15 @@ TBD
 |   | 2 |  SQL | M.T. Özsu |
 | 3 (Jan 20)| 1 | Data modeling | Tamer Özsu |
 |   | 2 | Catch-up day or in-class discussion |   |
-| 4 (Jan 27)| 1 | Big data and NoSQL  | Tamer Özsu  |
-|   | 2 | Big data and text processing | Tamer Özsu |
-| 5 (Feb 3) | 1 |  Big data and data streams |  |
-|   | 2 | Big data and graph processing  |  |
-| 6 (Feb 10)| 1 |  Big data and scaling: Distributed/parallel DBMS |  Tamer Özsu |
-|   | 2 | Big data processing platforms: MapReduce | Tamer Özsu |
+| 4 (Jan 27)| 1 | Big data: Dealing with volume | Tamer Özsu  |
+|   | 2 | Big data: Dealing with volume | Tamer Özsu |
+| 5 (Feb 3) | 1 |  Big data: Dealing with variety | Tamer Özsu |
+|   | 2 | Big data: Dealing with variety   | Tamer Özsu |
+| 6 (Feb 10)| 1 |  Big data: Dealing with velocity |  Tamer Özsu |
+|   | 2 | Big data: Dealing with velocity | Tamer Özsu |
 | 7 (Feb 17)|   | <span style="color:red">Reading week - no classes</span> |  |
 | 8 (Feb 24)| 1 | <span style="color:red">Midterm exam</span> |  |
-|   | 2 |  Big data processing platforms: MapReduce/Spark |  Tamer Özsu |
+|   | 2 |  Catch-up day or in-class discussion |   |
 | 9 (Mar 3)| 1 | Data integration: Data warehouses  | Tamer Özsu |
 |   | 2 | Data integration: Data lakes | [Renée Miller, Waterloo](https://rjmillerlab.github.io/)  |
 | 10 (Mar 10)| 1 | Cloud computing & cloud-native data management |  |
