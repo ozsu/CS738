@@ -35,7 +35,7 @@ TBD
 |   | 2 |  Catch-up day or in-class discussion |   |
 | 9 (Mar 3)| 1 | Data integration: Data warehouses  | Tamer Özsu |
 |   | 2 | Data integration: Data lakes | [Renée Miller](https://rjmillerlab.github.io/)  |
-| 10 (Mar 10)| 1 | Cloud computing & cloud-native data management |  |
+| 10 (Mar 10)| 1 | Cloud computing & cloud-native data management | [Xun Xue](https://www.linkedin.com/in/xun-xue-ab43261/?originalSubdomain=ca) |
 |   | 2 | OLAP & OLTP: HTAP systems | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)  |
 | 11 (Mar 17)| 1 | Data preparation: the pipeline |   |
 |   | 2 | Data quality & data cleaning |   |
