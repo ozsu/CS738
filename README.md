@@ -28,11 +28,11 @@ TBD
 |   | 2 | Big data: Dealing with volume | Tamer Özsu |
 | 5 (Feb 3) | 1 |  Big data: Dealing with variety | Tamer Özsu |
 |   | 2 | Big data: Dealing with variety   | Tamer Özsu |
-| 6 (Feb 10)| 1 |  Big data: Dealing with velocity |  Tamer Özsu |
+| 6 (Feb 10)| 1 |  Class cancelled |   |
 |   | 2 | Big data: Dealing with velocity | Tamer Özsu |
 | 7 (Feb 17)|   | <span style="color:red">Reading week - no classes</span> |  |
 | 8 (Feb 24)| 1 | <span style="color:red">Midterm exam</span> |  |
-|   | 2 |  Catch-up day or in-class discussion |   |
+|   | 2 |  Big data: Dealing with velocity | Tamer Özsu  |
 | 9 (Mar 3)| 1 | Data integration: Data warehouses  | Tamer Özsu |
 |   | 2 | Data integration: Data lakes | [Renée Miller](https://rjmillerlab.github.io/)  |
 | 10 (Mar 10)| 1 | Cloud computing & cloud-native data management | [Xun Xue](https://www.linkedin.com/in/xun-xue-ab43261/?originalSubdomain=ca) |
