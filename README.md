@@ -40,7 +40,7 @@ TBD
 | 11 (Mar 17)| 1 | Data preparation: the pipeline | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
 |   | 2 | Data quality & data cleaning |   |
 | 12 (Mar 24)| 1 | Data quality & data cleaning |  |
-|   | 2 | Data provenance |   |
+|   | 2 | Data provenance | [Juliana Freire](https://engineering.nyu.edu/faculty/juliana-freire?page=3)  |
 | 13 (Mar 31)| 1 | Vector databases | [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/)  |
 |   | 2 | Data management issues in LLMs | [Theo Rekatsinas](https://thodrek.github.io/)  |
 |
