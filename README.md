@@ -35,7 +35,7 @@ TBD
 |   | 2 |  Big data: Dealing with velocity | Tamer Özsu  |
 | 9 (Mar 3)| 1 | Data integration: Data warehouses  | Tamer Özsu |
 |   | 2 | Data integration: Data lakes | [Renée Miller](https://rjmillerlab.github.io/)  |
-| 10 (Mar 10)| 1 | Cloud computing & cloud-native data management | [Xun Xue](https://www.linkedin.com/in/xun-xue-ab43261/?originalSubdomain=ca) |
+| 10 (Mar 10)| 1 | Cloud computing & cloud-native data management | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/?originalSubdomain=ca) |
 |   | 2 | OLAP & OLTP: HTAP systems | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)  |
 | 11 (Mar 17)| 1 | Data preparation & Data quality: the pipeline | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
 |   | 2 | Data quality & data cleaning |   |
