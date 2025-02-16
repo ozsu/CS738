@@ -38,7 +38,7 @@ TBD
 | 10 (Mar 10)| 1 | Cloud computing & cloud-native data management | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/?originalSubdomain=ca) |
 |   | 2 | OLAP & OLTP: HTAP systems | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)  |
 | 11 (Mar 17)| 1 | Data preparation & Data quality: the pipeline | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
-|   | 2 | Data quality & data cleaning |   |
+|   | 2 | Data quality & data cleaning |  [Ihab Ilyas](https://cs.uwaterloo.ca/~ilyas/) |
 | 12 (Mar 24)| 1 | Data quality & data cleaning |  |
 |   | 2 | Data provenance | [Juliana Freire](https://engineering.nyu.edu/faculty/juliana-freire?page=3)  |
 | 13 (Mar 31)| 1 | Vector databases | [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/)  |
