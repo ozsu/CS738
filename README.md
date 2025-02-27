@@ -39,7 +39,7 @@ TBD
 |   | 2 | OLAP & OLTP: HTAP systems | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)  |
 | 11 (Mar 17)| 1 | Data preparation & Data quality: the pipeline | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
 |   | 2 | Data quality & data cleaning |  [Ihab Ilyas](https://cs.uwaterloo.ca/~ilyas/) |
-| 12 (Mar 24)| 1 | Data quality & data cleaning |  |
+| 12 (Mar 24)| 1 | Data quality & data cleaning | [Fei Chiang](https://www.cas.mcmaster.ca/~fchiang/) |
 |   | 2 | Data provenance | [Juliana Freire](https://engineering.nyu.edu/faculty/juliana-freire?page=3)  |
 | 13 (Mar 31)| 1 | Vector databases | [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/)  |
 |   | 2 | Data management issues in LLMs | [Theo Rekatsinas](https://thodrek.github.io/)  |
