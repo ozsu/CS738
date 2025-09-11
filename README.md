@@ -1,13 +1,13 @@
-# CS738 (Winter 2025)
+# CS738 (Winter 2026)
 # Data Engineering for Data Science
 
 + **Instructor:** [M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/)
-+ **Lecture Room:** DC2585
-+ **Lecture Time:** MW 3:00-4:30PM
-+ **Office Hour** M 1:30-2:30PM
++ **Lecture Room:** TBD
++ **Lecture Time:** TBD
++ **Office Hour** M TBD
 
 ## Calendar Description
-Introduction to data engineering issues in data science. Data management technology objectives. Relational database technology, relational algebra, SQL, transactions, data modelling methodology, entity-relationship models. NoSQL databases including key-value stores, document databases, wide-column stores, graph databases. Overview of big data processing platforms. Data integration including data warehousing, data lakes, ETL and ELT approaches. Data preparation for analysis, data quality, data cleaning. Introduction to several current topics in database research, such as data mining, managing data streams, distributed/parallel databases, HTAP architectures. 
+Introduction to data engineering issues in data science. Data management technology objectives. Structured data management: Relational database technology, database workloads (OLTP vs OLAP). Big data issues: dealing with volume (geo-distributed, cluster parallel, and cloud-native data management), dealing with variety (data type-native systems, NoSQL database systems), dealing with velocity (streaming data management), and big data processing platforms (MapReduce, Spark). Data preparation pipeline: data acquisition, data integration (data warehouses, data lakes, lake houses), dataset selection, data quality and cleaning, data provenance management. Introduction to several current topics in database research, such as Large Language Models, vector databases. 
 
 Open to Master of Data Science and Artificial Intelligence students and others without an undergraduate course on database systems (instructor approval required).
 
@@ -18,13 +18,13 @@ TBD
 
 | Week     | Lecture       | Topic  |  Speaker  |
 | :-----: | :-----------: | :---- |:------------- |
-| 1 (Jan 6) | 1 | Course introduction; Introduction to Database Systems | Tamer Özsu | 
+| 1 (Jan 5) | 1 | Course introduction; Introduction to Database Systems | Tamer Özsu | 
 |   | 2 | Relational model of data, relational calculus & algebra | Tamer Özsu  |
-| 2 (Jan 13)| 1 | Relational algebra, SQL | Tamer Özsu  |
+| 2 (Jan 12)| 1 | Relational algebra, SQL | Tamer Özsu  |
 |   | 2 |  SQL | M.T. Özsu |
-| 3 (Jan 20)| 1 | Data modeling | Tamer Özsu |
+| 3 (Jan 19)| 1 | Data modeling | Tamer Özsu |
 |   | 2 | Catch-up day or in-class discussion |   |
-| 4 (Jan 27)| 1 | Big data: Dealing with volume | Tamer Özsu  |
+| 4 (Jan 26)| 1 | Big data: Dealing with volume | Tamer Özsu  |
 |   | 2 | Big data: Dealing with volume | Tamer Özsu |
 | 5 (Feb 3) | 1 |  Big data: Dealing with variety | Tamer Özsu |
 |   | 2 | Big data: Dealing with variety   | Tamer Özsu |
