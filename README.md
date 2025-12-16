@@ -59,7 +59,7 @@ Open to Master of Data Science and Artificial Intelligence students and others w
 |   | 2 | Vector databases | <!--- [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) -->  |
 |   |   | Final Exam 
 
-## Marking Scheme (Tentative)
+## Marking Scheme 
 + **Paper critiques (2):** 40% 
 + **Quizzes (5):** 20% (Open ended questions)
 + **Final:** 40%
