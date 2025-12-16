@@ -57,7 +57,7 @@ Open to Master of Data Science and Artificial Intelligence students and others w
 |   | 2 | LLMs and Data Management |  |
 | 13 (Mar 30)| 1 | LLMs and Data Management |   |
 |   | 2 | Vector databases | <!--- [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) -->  |
-|
+|   |   | Final Exam 
 
 ## Marking Scheme (Tentative)
 + **Paper critiques (2):** 40% 
