@@ -126,6 +126,6 @@ Marking Scheme
 
 -   **Paper critiques (2):** 40%
 
--   **Quizzes (5):** 20% (Open ended questions)
+-   **Quizzes (5):** 20% 
 
 -   **Final:** 40%
