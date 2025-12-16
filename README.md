@@ -100,7 +100,7 @@ Syllabus & Schedule (Subject to adjustments)
 |             | 2       | Introduction to Database Systems                                                  | Tamer Özsu |
 | 2 (Jan 12)  | 1       | Relational model of data, relational calculus & algebra                           | Tamer Özsu |
 |             | 2       | Relational algebra, SQL                                                           | Tamer Özsu |
-| 3 (Jan 19)  | 1       | Database Workloads (OLTP, OLAP & HTAP systems)                                    |            |
+| 3 (Jan 19)  | 1       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)             |
 |             | 2       | Big data: Dealing with volume                                                     | Tamer Özsu |
 | 4 (Jan 26)  | 1       | Big data: Dealing with volume                                                     | Tamer Özsu |
 |             | 2       | Big data: Dealing with variety                                                    | Tamer Özsu |
