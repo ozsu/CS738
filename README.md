@@ -89,6 +89,8 @@ Course Logistics
     and the TAs at least 24 hours before the deadline to let us know that you're
     using it, and why. We will adjust the deadline on LEARN.
 
+- Students can use generative AI tools as aid, but have to write their own text in paper reviews. These will be checked using appropriate tools.
+
 Syllabus & Schedule (Subject to adjustments)
 --------------------------------------------
 
