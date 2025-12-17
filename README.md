@@ -115,7 +115,7 @@ Syllabus & Schedule (Subject to adjustments)
 |             | 2       | Data integration: Data lakes                                                      |            |
 | 10 (Mar 9)  | 1       | Data integration: Data lakehouses                                                 |            |
 |             | 2       | Data profiling                                                                    |            |
-| 11 (Mar 16) | 1       | Data quality & data cleaning                                                      |            |
+| 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
 |             | 2       | Data quality & data cleaning                                                      |            |
 | 12 (Mar 23) | 1       | Data provenance                                                                   |            |
 |             | 2       | LLMs and Data Management                                                          |            |
