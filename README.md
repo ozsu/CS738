@@ -119,7 +119,7 @@ Syllabus & Schedule (Subject to adjustments)
 |             | 2       | Data quality & data cleaning                                                      |            |
 | 12 (Mar 23) | 1       | Data provenance                                                                   |            |
 |             | 2       | LLMs and data management                                                          |            |
-| 13 (Mar 30) | 1       | Vector databases                                                                  |            |
+| 13 (Mar 30) | 1       | Vector databases                                                                  | [Karima Echihabi](https://echihabi.com/)            |
 |             | 2       | Review and general          discussion                                                                  |  Tamer Özsu           |
 |             |         | Final Exam                                                                        |            |
 
