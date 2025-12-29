@@ -109,10 +109,10 @@ Syllabus & Schedule (Subject to adjustments)
 | 6 (Feb 9)   | 1       | Big data: Dealing with velocity                                                   | Tamer Özsu |
 |             | 2       | Cloud computing & cloud-native data management                                    |            |
 | 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
-| 8 (Feb 23)  | 1       | Introduction to data preparation pipeline                                         |  |
-|             | 2       | Data acquisition                                                                  | Tamer Özsu |
-| 9 (Mar 2)   | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
-|             | 2       | Data integration: Data lakes                                                      |            |
+| 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
+|             | 2       | Data integration: Data lakes                                                      | Tamer Özsu |
+| 9 (Mar 2)   | 1       | Data preparation pipeline                                                         | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
+|             | 2       | Data acquisition                                                       |            |
 | 10 (Mar 9)  | 1       | Data integration: Data lakehouses                                                 |            |
 |             | 2       | Data profiling                                                                    |            |
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
