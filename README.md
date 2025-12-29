@@ -123,7 +123,7 @@ Syllabus & Schedule (Subject to adjustments)
 |             | 2       | Review and general          discussion                                                                  |  Tamer Özsu           |
 |             |         | Final Exam                                                                        |            |
 
-Marking Scheme
+Marking Scheme (Tentative)
 --------------
 
 -   **Paper critiques (2):** 40%
