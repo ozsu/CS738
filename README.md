@@ -110,7 +110,7 @@ Syllabus & Schedule (Subject to adjustments)
 |             | 2       | Cloud computing & cloud-native data management                                    |            |
 | 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
 | 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
-|             | 2       | Data integration: Data lakes                                                      | Tamer Özsu |
+|             | 2       | Data integration: Data lakes                                                      |  |
 | 9 (Mar 2)   | 1       | Data preparation pipeline                                                         | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
 |             | 2       | Data acquisition                                                       |            |
 | 10 (Mar 9)  | 1       | Data integration: Data lakehouses                                                 |            |
