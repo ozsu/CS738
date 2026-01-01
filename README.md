@@ -95,7 +95,7 @@ Syllabus & Schedule (Subject to adjustments)
 --------------------------------------------
 
 | Week        | Lecture | Topic                                                                             | Speaker    |
-|-------------|---------|-------------------------------------------------------------------------|--------------------|
+|-------------|---------|-----------------------------------------------------------------|-------------------------|
 | 1 (Jan 5)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Tamer Özsu |
 |             | 2       | Introduction to Database Systems                                                  | Tamer Özsu |
 | 2 (Jan 12)  | 1       | Relational model of data, relational calculus & algebra                           | Tamer Özsu |
