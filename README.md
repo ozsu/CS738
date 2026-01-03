@@ -118,7 +118,7 @@ Syllabus & Schedule (Subject to adjustments)
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
 |             | 2       | Data quality & data cleaning                                                      |            |
 | 12 (Mar 23) | 1       | Data provenance                                                                   |            |
-|             | 2       | LLMs and data management                                                          |[Stratos Idrios](https://stratos.idreos.ai/)            |
+|             | 2       | LLMs and data management                                                          |[Stratos Idreos](https://stratos.idreos.ai/)            |
 | 13 (Mar 30) | 1       | Vector databases                                                                  | [Karima Echihabi](https://echihabi.com/)            |
 |             | 2       | Review and general          discussion                                                                  |  Tamer Özsu           |
 |             |         | Final Exam                                                                        |            |
