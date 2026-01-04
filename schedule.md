@@ -19,9 +19,9 @@ Syllabus & Schedule (Subject to adjustments)
 | 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
 |             | 2       | Data integration: Data lakes                                                      |  |
 | 9 (Mar 2)   | 1       | Data preparation pipeline                                                         | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
-|             | 2       | Data integration: Data lakehouses                                                       |            |
+|             | 2       | Data integration: Data lakehouses                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
 | 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
-|             | 2       | Data profiling                                                                    |            |
+|             | 2       | Data profiling                                                                    | [Hazar Harmouch](https://hazourahh.github.io)            |
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
 |             | 2       | Data quality & data cleaning                                                      |            |
 | 12 (Mar 23) | 1       | Data provenance                                                                   |            |
