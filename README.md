@@ -66,7 +66,7 @@ Course Logistics
 
     -   My office hour is on M1:00-2:00
 
-    -   The TA for the course is Sepideh Abedini [email](mailto:sepideh.abedini@uwaterloo.ca).
+    -   The TA for the course is Sepideh Abedini ([email](mailto:sepideh.abedini@uwaterloo.ca)).
 
 -   Final exam schedule will be announced by the Registrar's Office in due
     course and I cannot change the schedule. There will be no makeup for the
