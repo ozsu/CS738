@@ -1,0 +1,19 @@
+Relevant University Policies and Statements
+-------------------------------------------
+
+**Mental Health**: At the University of Waterloo, we are dedicated to supporting your mental and emotional well-being. Our Counselling Services offer confidential support, including individual counselling, workshops, and crisis intervention.
+If you're struggling, please reach out for help at 519-888-4096 or visit their website for more information.
+
+**Academic integrity**: In order to maintain a culture of academic integrity, members of the University of Waterloo community are expected to promote honesty, trust, fairness, respect and responsibility.
+
+**Grievance**: A student who believes that a decision affecting some aspect of their university life has been unfair or unreasonable may have grounds for initiating a grievance. Read Policy 70, Student Petitions and Grievances, Section 4. When in doubt, please be certain to contact the department’s administrative assistant who will provide further assistance.
+
+**Discipline**: A student is expected to know what constitutes academic integrity to avoid committing an academic offence, and to take responsibility for their actions. A student who is unsure whether an action constitutes an offence, or who needs help in learning how to avoid offences (e.g., plagiarism, cheating) or about “rules” for group work/collaboration should seek guidance from the course instructor, academic advisor, or the undergraduate associate dean. For information on categories of offences and types of penalties, students should refer to Policy 71, Student Discipline. For typical penalties, check Guidelines for the Assessment of Penalties.
+
+**Appeals**: A decision made or penalty imposed under Policy 70, Student Petitions and Grievances (other than a petition) or Policy 71, Student Discipline may be appealed if there is a ground. A student who believes they have a ground for an appeal should refer to Policy 72, Student Appeals.
+
+**Note for students with disabilities and disabling conditions**: The University of Waterloo recognizes its obligations under the Ontario Human Rights Code to accommodate students with known or suspected disabilities and disabling conditions (e.g. medical conditions, injuries, impacts of trauma such as from violence or discrimination) to the point of undue hardship. To support this obligation, AccessAbility Services (AAS) collaborates with all academic departments and schools to facilitate academic accommodations for students with disabilities and disabling conditions without compromising the academic integrity of the curriculum. If you believe you may require academic accommodations (e.g., testing accommodations, classroom accommodations), register with AAS as early in the term as possible by completing the online application. Students already registered with AAS must activate their accommodations for each of their courses at the beginning of each term using AAS' online system. If you require assistance, contact AAS by phone (519-888-4567 ext. 35082), email (access@uwaterloo.ca) or in-person (Needles Hall North, 1st Floor, Room 1401). 
+
+**Turnitin.com**: Text matching software (Turnitin®) may be used to screen assignments in this course. Turnitin® is used to verify that all materials and sources in assignments are documented. Students' submissions are stored on a U.S. server, therefore students must be given an alternative (e.g., scaffolded assignment or annotated bibliography), if they are concerned about their privacy and/or security. Students will be given due notice, in the first week of the term and/or at the time assignment details are provided, about arrangements and alternatives for the use of Turnitin in this course.
+
+It is the responsibility of the student to notify the instructor if they, in the first week of term or at the time assignment details are provided, wish to submit alternate assignment.
