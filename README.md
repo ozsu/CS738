@@ -88,11 +88,14 @@ Course Logistics
     and the TA at least 24 hours before the deadline to let us know that you're
     using it, and why. We will adjust the deadline on LEARN.
 
+Use of Generative AI Tools
+--------------------------
+
 - Students can use generative AI tools as aid, but have to write their own text in paper reviews. These will be checked using appropriate tools. Note that generative AI is known to hallucinate and may fabricate facts and inaccurately express ideas. They also commonly falsify references to other work. 
 
-    In addition, you should be aware that the legal/copyright status of generative AI inputs and outputs is unclear. Exercise caution when using large portions of content from AI sources. 
+- In addition, you should be aware that the legal/copyright status of generative AI inputs and outputs is unclear. Exercise caution when using large portions of content from AI sources. 
 
-    Bottom line: students are accountable for the content and accuracy of all work you submit in this class, including any supported by generative AI. You should be able to readily demonstrate your knowledge of your submissions. It is the students' responsibility to check and use these tools responsibly. 
+- Bottom line: students are accountable for the content and accuracy of all work you submit in this class, including any supported by generative AI. You should be able to readily demonstrate your knowledge of your submissions. It is the students' responsibility to check and use these tools responsibly. 
 
 [Syllabus & Schedule](schedule.md) (Subject to adjustments)
 --------------------------------------------
