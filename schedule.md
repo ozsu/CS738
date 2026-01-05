@@ -19,7 +19,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
 |             | 2       | Data integration: Data lakes (virtual lecture)                                          | [Fatemeh Nargesian](https://fnargesian.com/) |
 | 9 (Mar 2)   | 1       | Data preparation pipeline (virtual lecture)                                                        | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
-|             | 2       | Data integration: Data lakehouses (virtual lecture)                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
+|             | 2       | Data integration: Data lakehouses **(virtual lecture)**                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
 | 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
 |             | 2       | Data profiling  (virtual lecture)                                                                   | [Hazar Harmouch](https://hazourahh.github.io)            |
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
