@@ -17,7 +17,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Cloud computing & cloud-native data management                                    |            |
 | 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
 | 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
-|             | 2       | Data integration: Data lakes (virtual lecture)                                          | [Fatemeh Nargesian](https://fnargesian.com/) |
+|             | 2       | Data integration: Data lakes _(virtual lecture)_                                          | [Fatemeh Nargesian](https://fnargesian.com/) |
 | 9 (Mar 2)   | 1       | Data preparation pipeline (virtual lecture)                                                        | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
 |             | 2       | Data integration: Data lakehouses **(virtual lecture)**                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
 | 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
