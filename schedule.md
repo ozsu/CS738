@@ -14,7 +14,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 5 (Feb 2)   | 1       | Big data: Dealing with variety                                                    | Tamer Özsu |
 |             | 2       | Big data: Dealing with velocity                                                   | Tamer Özsu |
 | 6 (Feb 9)   | 1       | Big data: Dealing with velocity                                                   | Tamer Özsu |
-|             | 2       | Cloud computing & cloud-native data management                                    |            |
+|             | 2       | Cloud computing & cloud-native data management                                    | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/?originalSubdomain=ca) |
 | 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
 | 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
 |             | 2       | Data integration: Data lakes (_virtual lecture_)                                          | [Fatemeh Nargesian](https://fnargesian.com/) |
