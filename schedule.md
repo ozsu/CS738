@@ -23,8 +23,8 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
 |             | 2       | Data profiling  (_virtual lecture_)                                                                   | [Hazar Harmouch](https://hazourahh.github.io)            |
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
-|             | 2       | Data quality & data cleaning                                                      |            |
-| 12 (Mar 23) | 1       | Data provenance                                                                   |            |
+|             | 2       | Data provenance                                                      | [Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html)          |
+| 12 (Mar 23) | 1       | Data quality & data cleaning                                                                   |            |
 |             | 2       | LLMs and data management                                                          |[Stratos Idreos](https://stratos.idreos.ai/)            |
 | 13 (Mar 30) | 1       | Vector databases (_virtual lecture_)                                                                  |[Karima Echihabi](https://echihabi.com/)            |
 |             | 2       | Review and general discussion                                                     |  Tamer Özsu           |
