@@ -118,15 +118,3 @@ Students should select two papers from different topic areas.
   *Proceedings of the 1st Workshop on Connecting Academia and Industry on Modern Integrated Database and AI Systems*, ACM, 2025.  
   DOI: 10.1145/3737412.3743490
 
----
-
-## Instructions to Students
-
-- Select **two papers from different sections**.
-- At least **one paper must be a systems paper**.
-- Reviews should address:
-  - problem formulation,
-  - system architecture,
-  - core techniques,
-  - evaluation methodology,
-  - relevance to data engineering for data science.
