@@ -17,15 +17,15 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Cloud computing & cloud-native data management                                    | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/?originalSubdomain=ca) |
 | 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
 | 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
-|             | 2       | Data integration: Data lakes (_virtual lecture_)                                          | [Fatemeh Nargesian](https://fnargesian.com/) |
-| 9 (Mar 2)   | 1       | Data preparation pipeline (_virtual lecture_)                                                        | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
-|             | 2       | Data integration: Data lakehouses (_virtual lecture_)                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
+|             | 2       | Data integration: Data lakes (_virtual lecture_; DC 1302)                                         | [Fatemeh Nargesian](https://fnargesian.com/) |
+| 9 (Mar 2)   | 1       | Data preparation pipeline (_virtual lecture_; DC 1302)                                                        | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
+|             | 2       | Data integration: Data lakehouses (_virtual lecture_; DC 1302)                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
 | 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
 |             | 2       | Data profiling  (_virtual lecture_)                                                                   | [Hazar Harmouch](https://hazourahh.github.io)            |
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
 |             | 2       | Data provenance                                                      | [Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html)          |
 | 12 (Mar 23) | 1       | Data quality & data cleaning                                                                   |            |
 |             | 2       | LLMs and data management                                                          |[Stratos Idreos](https://stratos.idreos.ai/)            |
-| 13 (Mar 30) | 1       | Vector databases (_virtual lecture_)                                                                  |[Karima Echihabi](https://echihabi.com/)            |
+| 13 (Mar 30) | 1       | Vector databases (_virtual lecture_; DC 1302)                                                                  |[Karima Echihabi](https://echihabi.com/)            |
 |             | 2       | Review and general discussion                                                     |  Tamer Özsu           |
 |             |         | Final Exam                                                                        |            |
