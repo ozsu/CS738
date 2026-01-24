@@ -21,7 +21,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 9 (Mar 2)   | 1       | Data preparation pipeline (_virtual lecture_; DC 1302)                                                        | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
 |             | 2       | Data integration: Data lakehouses (_virtual lecture_; DC 1302)                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
 | 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
-|             | 2       | Data profiling  (_virtual lecture_)                                                                   | [Hazar Harmouch](https://hazourahh.github.io)            |
+|             | 2       | Data profiling  (_virtual lecture_; MC 2038)                                                                   | [Hazar Harmouch](https://hazourahh.github.io)            |
 | 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
 |             | 2       | Data provenance                                                      | [Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html)          |
 | 12 (Mar 23) | 1       | Data quality & data cleaning                                                                   |[Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab)           |
