@@ -9,10 +9,10 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Relational algebra, SQL                                                           | Tamer Özsu |
 | 3 (Jan 19)  | 1       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)             |
 |             | 2       | Big data: Dealing with volume                                                     | Tamer Özsu |
-| 4 (Jan 26)  | 1       | Big data: Dealing with volume                                                     | Tamer Özsu |
-|             | 2       | Big data: Dealing with variety                                                    | Tamer Özsu |
+| 4 (Jan 26)  | 1       | Snow day - class cancelled                                                     | Tamer Özsu |
+|             | 2       | Big data: Dealing with volume                                                    | Tamer Özsu |
 | 5 (Feb 2)   | 1       | Big data: Dealing with variety                                                    | Tamer Özsu |
-|             | 2       | Big data: Dealing with velocity                                                   | Tamer Özsu |
+|             | 2       | Big data: Dealing with variety + velocity                                                   | Tamer Özsu |
 | 6 (Feb 9)   | 1       | Big data: Dealing with velocity                                                   | Tamer Özsu |
 |             | 2       | Cloud computing & cloud-native data management                                    | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/?originalSubdomain=ca) |
 | 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
