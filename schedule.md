@@ -26,6 +26,6 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Data provenance                                                      | [Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html)          |
 | 12 (Mar 23) | 1       | Data quality & data cleaning                                                                   |[Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab)           |
 |             | 2       | LLMs and data management                                                          |[Stratos Idreos](https://stratos.idreos.ai/)            |
-| 13 (Mar 30) | 1       | Vector databases (_virtual lecture_; DC 1302)                                                                  |[Karima Echihabi](https://echihabi.com/)            |
+| 13 (Mar 30) | 1       | Vector databases (_virtual lecture_; DC 1302)   |[Karima Echihabi](https://echihabi.com/)            |
 |             | 2       | Review and general discussion                                                     |  Tamer Özsu           |
-|             |         | Final Exam                                                                        |            |
+|   10 April  |         | Final Exam (7:30-10:00 PM) in PAC UPPER 9      |            |
